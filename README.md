@@ -49,4 +49,4 @@ Modern e-commerce platform specializing in eco-friendly products with clean desi
 
 1. Clone repository:
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/panjiyev-dev/Ecommerce.git
