@@ -5,7 +5,7 @@ Modern e-commerce platform specializing in eco-friendly products with clean desi
 
 **Live Demo:** [Insert Your Live URL Here]
 
-![Website Preview](https://panjiyevdev-ecommerce.netlify.app)
+[](https://panjiyevdev-ecommerce.netlify.app)
 
 ## 🌟 Features
 
