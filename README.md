@@ -3,9 +3,8 @@
 
 Modern e-commerce platform specializing in eco-friendly products with clean design and intuitive shopping experience.
 
-**Live Demo:** [Insert Your Live URL Here]
+**Live Demo:** <a href="https://panjiyevdev-ecommerce.netlify.app">Live demo</a>
 
-[](https://panjiyevdev-ecommerce.netlify.app)
 
 ## 🌟 Features
 
