@@ -1,14 +1,11 @@
 # GreenShop - Eco-Friendly E-Commerce 🌿
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://app.netlify.com/sites/your-site-name/overview)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/repo-name)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-site-url.netlify.app%2F)
 
 Modern e-commerce platform specializing in eco-friendly products with clean design and intuitive shopping experience.
 
 **Live Demo:** [Insert Your Live URL Here]
 
-![Website Preview](https://via.placeholder.com/1920x1080.png?text=GreenShop+Showcase)
+![Website Preview](https://panjiyevdev-ecommerce.netlify.app)
 
 ## 🌟 Features
 
